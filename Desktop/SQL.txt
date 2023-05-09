@@ -1,0 +1,4 @@
+SQL practices
+SQL questions
+JOINS
+SELECT,etc...
